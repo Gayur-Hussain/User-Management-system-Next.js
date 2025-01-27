@@ -15,3 +15,7 @@ export default async function Home() {
 		</div>
 	);
 }
+export const metadata = {
+	title: "User-Management-System",
+	description: "Created by Gayur hussain",
+};

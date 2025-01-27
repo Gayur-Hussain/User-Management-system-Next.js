@@ -25,3 +25,8 @@ const UserManagement = async () => {
 	);
 };
 export default UserManagement;
+
+export const metadata = {
+	title: "Dashboard-User-Management-System",
+	description: "Created by Gayur hussain",
+};
